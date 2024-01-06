@@ -22,11 +22,11 @@ In [Simulation 1](https://github.com/juandavidvargas19/Know_Thyself_Replication/
 
 Here you can see the code and the results obtained for every implementation
 
-🛠 [Blindsight Simulation](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Blindsight_Simulation_GITHUB.ipynb) 
+🛠 [Blindsight Simulation](https://drive.google.com/file/d/1wxuD3mEA32VGI8qaki6oPLVfv0gNolNZ/view?usp=sharing) 
 
 
-⚙️ [Artificial grammar Learning Task Simulation](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Artificial_Grammar_GITHUB%20(3).ipynb) 
+⚙️ [Artificial grammar Learning Task Simulation](https://drive.google.com/file/d/1uObTlgUzgwVsqWOkY9lLoNlENGLB5QhT/view?usp=sharing) 
 
 
-🧠 [Iowa Gambling Task Simulation](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Iowa_Gambling_Simulation_GITHUB%20(1).ipynb) 
+🧠 [Iowa Gambling Task Simulation](https://drive.google.com/file/d/1xHsgDe7uEAHp8MKy57_0LloQMjBY0GLN/view?usp=sharing) 
 
