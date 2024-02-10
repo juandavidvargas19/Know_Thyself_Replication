@@ -16,8 +16,6 @@ In [Simulation 1](https://github.com/juandavidvargas19/Know_Thyself_Replication/
 
 [Simulation 2](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Artificial_Grammar_GITHUB_Presentation.ipynb) focused on the Artificial Grammar Learning (AGL) task. Similar to the previous simulation, neural networks were employed, but this time, they learned grammatical patterns according to specific artificial grammars. The first-order network recognized patterns, and the second-order network placed wagers based on the first-order network's performance. This simulation aimed to explore the networks' ability to learn grammatical patterns and wager effectively. The training and testing phases involved different grammatical structures and levels of awareness. By varying learning conditions and simulating high and low consciousness, the researchers investigated how the networks' metacognitive capacities influenced their wagering strategies during grammar learning. You can find the notes of the architecure [here]() to better understand the implementation. You can also check here how grammar A and grammar B are [defined](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Guillaume-Dienes_Altmann-Five_Transfer_of_implicit_knowledge_across_domains.pdf) in [FIG 5.1](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Grammar_A_B.jpg)
 
-[Simulation 3](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Iowa_Gambling_Simulation_GITHUB%20(1).ipynb) centered around the Iowa Gambling Task, a classic experiment used to study decision-making and risk assessment. In this simulation, two neural networks were interconnected to model the decision-making process. The first-order network received inputs representing outcomes of card decks, and the second-order network placed wagers based on the perceived success of previous decisions. The networks learned to explore and choose decks with higher probabilities of rewards. The simulation aimed to demonstrate how metacognitive processing, represented by the second-order network, influenced decision-making based on the first-order network's performance. By varying learning rates and awareness conditions, the researchers assessed how the networks' metacognitive abilities affected their wagering strategies and decision-making performance. You can find the notes of the architecure [here](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Iowa_Gambling_Simulation_NOTES.ipynb) to better understand the implementation. 
-
 ## Tests
 
 Here you can see the code and the results obtained for every implementation
@@ -26,7 +24,4 @@ Here you can see the code and the results obtained for every implementation
 
 
 ⚙️ [Artificial grammar Learning Task Simulation](https://drive.google.com/file/d/1uObTlgUzgwVsqWOkY9lLoNlENGLB5QhT/view?usp=sharing) 
-
-
-🧠 [Iowa Gambling Task Simulation](https://drive.google.com/file/d/1xHsgDe7uEAHp8MKy57_0LloQMjBY0GLN/view?usp=sharing) 
 
